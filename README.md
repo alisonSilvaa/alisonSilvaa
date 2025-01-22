@@ -1,5 +1,4 @@
-### 🎯 Olá! Sou Alison Silva, estudante de Ciência da Computação e apaixonado por desenvolvimento. Estou em busca em me desenvolver como programador e me encaixar dentro do mercado de trabalho da programação.
-
+### 🎯 Olá! Sou Alison Silva, estudante de Ciência da Computação e apaixonado por desenvolvimento. Estou em busca de aprimorar minhas habilidades como programador e conquistar meu espaço no mercado de tecnologia.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alisonSilvaa&show_icons=true&theme=transparent)
 ## redes sociais 
 <a href="https://www.instagram.com/slv_alisonhq">
