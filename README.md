@@ -3,7 +3,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alisonSilvaa&show_icons=true&theme=transparent)
 
 ## redes sociais 
-
 <a href="https://www.instagram.com/slv_alisonhq">
   <img src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" width="30" height="30">
 </a> 
