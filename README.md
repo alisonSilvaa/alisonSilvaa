@@ -1,6 +1,4 @@
-### Opa, Tudo bem? Meu nome é Alison Silva 🙋🏻‍♂️.
-
-<h3> Em busca de aprendizado e um lugar no mercado da programação. <h3>
+### 🎯 Olá! Sou Alison Silva, estudante de Ciência da Computação e apaixonado por desenvolvimento. Meu foco atual é aprimorar minhas habilidades em C, C++ e JavaScript. Estou sempre buscando aprender mais e contribuir para projetos que desafiem minha lógica de programação.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alisonSilvaa&show_icons=true&theme=transparent)
 
