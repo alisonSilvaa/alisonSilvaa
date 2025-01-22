@@ -1,4 +1,4 @@
-### 🎯 Olá! Sou Alison Silva, estudante de Ciência da Computação e apaixonado por desenvolvimento. Meu foco atual é aprimorar minhas habilidades em C, C++ e JavaScript. Estou sempre buscando aprender mais e contribuir para projetos que desafiem minha lógica de programação.
+### 🎯 Olá! Sou Alison Silva, estudante de Ciência da Computação e apaixonado por desenvolvimento. Estou em busca em me desenvolver como programador e me encaixar dentro do mercado de trabalho da programação.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alisonSilvaa&show_icons=true&theme=transparent)
 ## redes sociais 
