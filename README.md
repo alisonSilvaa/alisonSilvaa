@@ -3,9 +3,10 @@
 ## redes sociais 
 <a href="https://www.instagram.com/slv_alisonhq">
   <img src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" width="30" height="30">
-  <img src="https://cdn-icons-png.flaticon.com/512/179/179330.png" width="30" height="30">
 </a> 
-
+<a href="https://www.linkedin.com/in/alison-silva-2279172a5/">
+ <img src="https://cdn-icons-png.flaticon.com/512/179/179330.png" width="30" height="30">
+</a>
 ## Tecnologias
 
 ![blog](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
