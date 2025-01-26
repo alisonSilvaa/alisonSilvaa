@@ -8,7 +8,6 @@
  <img src="https://cdn-icons-png.flaticon.com/512/179/179330.png" width="30" height="30">
 </a>
 
-
 ## Tecnologias
 
 ![blog](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
