@@ -1,5 +1,4 @@
 ### 🎯 Olá! Sou Alison Silva, estudante de Ciência da Computação e apaixonado por desenvolvimento. Estou em busca de aprimorar minhas habilidades como programador e conquistar meu espaço no mercado de tecnologia.
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alisonSilvaa&show_icons=true&theme=transparent)
 
 ## Redes Sociais
@@ -11,28 +10,33 @@
 </a>
 
 ## Tecnologias
+
 ![blog](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![blog](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![blog](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![blog](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![blog](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## Habilidades
-💻 **Hard Skills:**
-- 🧑‍💻 Programação em **C**
-- 🌐 Desenvolvimento em **HTML**
-- 🐍 Programação em **Python**
-- 🖥️ Desenvolvimento em **PHP**
+## Hard Skills
 
-🛠️ **Ferramentas:**
-- 🧑‍💻 **Git**
-- 💾 **GitHub**
-- 🖥️ **PyQt5** (Interface Gráfica)
-- 📚 **MySQL**
+🔧 **Programação:**
+- C 
+- Python
+- HTML
+- JavaScript
 
-🌱 **Em aprendizado:**
-- 📈 Investimentos e Finanças
-- 🤖 Inteligência Artificial
-- 📚 Desenvolvimento de jogos com **Python**
-- 💡 Programação Orientada a Objetos (POO) *(em breve)*
+💡 **Outras Habilidades:**
+- Desenvolvimento de Interfaces Gráficas (PyQt5)
+- Lógica de Programação
+- Algoritmos
+- Estruturas de Dados
+- Git e GitHub
 
-## Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades, especialmente nas áreas de desenvolvimento de software e novas linguagens de programação. Vamos conectar!
+## Sobre Mim
+Eu sou um estudante de Ciência da Computação, focado em melhorar minhas habilidades em programação e em me aprofundar em tecnologias emergentes, como IA e Machine Learning. Busco constantemente desafios que me ajudem a crescer e atingir meus objetivos, como aprender inglês e me especializar em JavaScript.
+
+## Objetivos
+
+🔍 **Metas de Aprendizado:**
+- Melhorar o conhecimento em JavaScript
+- Aprender mais sobre Inteligência Artificial e Machine Learning
+- Desenvolver projetos práticos em programação
