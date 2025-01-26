@@ -3,6 +3,7 @@
 ## redes sociais 
 <a href="https://www.instagram.com/slv_alisonhq">
   <img src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" width="30" height="30">
+  <img src="[https://cdn-icons-png.flaticon.com/512/1384/1384063.png](https://cdn-icons-png.flaticon.com/512/145/145807.png)" width="30" height="30">
 </a> 
 
 ## Tecnologias
